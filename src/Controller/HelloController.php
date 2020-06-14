@@ -7,9 +7,10 @@ class HelloController{
 
 function hello() {
 
-    return new Response("Hello !!");
+    
 
 }
 
 }
 
+?>
